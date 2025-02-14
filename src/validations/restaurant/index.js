@@ -1,0 +1,10 @@
+module.exports.bookingValidation = require('./booking.validation');
+module.exports.contactValidation = require('./contact.validation');
+module.exports.dishValidation = require('./dish.validation');
+module.exports.guestValidation = require('./guest.validation');
+module.exports.restaurantValidation = require('./restaurant.validation');
+module.exports.reviewValidation = require('./review.validation');
+module.exports.scheduleValidation = require('./schedule.validation');
+// module.exports.slotValidation = require('./slot.validation');
+module.exports.categoryValidation = require('./category.validation');
+module.exports.facilityValidation = require('./facility.validation');
